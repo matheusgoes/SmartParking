@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package com.tcc.xbeemonitor;
+package com.goes.smartparking;
 
 import java.sql.Connection;
 import java.sql.Date;
