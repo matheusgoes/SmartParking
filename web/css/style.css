@@ -1,0 +1,75 @@
+/* Distributed by http://freehtml5templates.com */
+#navigation {
+        margin-bottom: 6px;
+        margin: 30px;
+        margin-top: 0px;
+        background : black;
+        color : white;
+        padding: 1em;
+        text-align: left;
+        background-color:rgba(100,100,100,0.8);
+        border: 1px solid black;
+        padding-left: 0px;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+        color: black;
+        margin: 10px;
+	}
+a:hover {
+	text-decoration: none; 
+	color: white
+	}
+a:active {
+	text-decoration: none
+	}
+main, article, aside, canvas, figure, figure img, figcaption, hgroup, footer, header, nav, section, audio, video  {
+	display: block;
+	text-align: justify;
+}
+body {
+        margin:0; padding:0;
+    }
+
+main {
+	margin: auto;
+	width: 1000px;
+}
+
+#dev{
+            color: gray;
+
+}
+
+header{
+    	width: 940px;
+}
+
+.transbox {
+   text-align: center; padding: 5px;
+    margin: 30px;
+    background-color:rgba(100,100,100,0.5);
+    border: 1px solid black;
+    
+}
+
+#logo {
+	float: left;
+	width: 350px;
+	position: float;
+	text-align: right;
+	text-indent: 1em;
+}
+.content section {
+	width: 940px;
+	position: relative;
+	float: left;
+	text-align: left;
+	padding-left: 40px;
+	padding-top: 20px;
+}
+#logo a {
+	margin: 0px;
+	padding: 0px;
+}
