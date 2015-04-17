@@ -1,6 +1,3 @@
-
-<%@page import="com.tcc.xbeemonitor.Mensagem"%>
-<%@page import="com.tcc.xbeemonitor.MensagemDAO"%>
 <%@page import="gnu.io.RXTXCommDriver"%>
 <%@page import="gnu.io.CommPortIdentifier"%>
 <%@page import="java.util.Enumeration"%>
