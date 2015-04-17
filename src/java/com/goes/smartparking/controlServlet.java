@@ -33,7 +33,6 @@ import javax.servlet.http.HttpServletResponse;
  */
 @WebServlet(name = "controlServlet", urlPatterns = {"/controlServlet"})
 public class controlServlet extends HttpServlet {
-
     private XBee xbee = new XBee();
     boolean estadoVerde = false;
     private ArrayList<ArrayList<Integer>> pacotes = new ArrayList<ArrayList<Integer>>();
